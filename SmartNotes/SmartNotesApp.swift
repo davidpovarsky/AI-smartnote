@@ -13,5 +13,7 @@ struct SmartNotesApp: App {
         WindowGroup {
             ContentView()
         }
+        // The Xcode target is configured as iPad-only. Keeping the app entry small
+        // lets the system launch directly into the document library on iPadOS.
     }
 }

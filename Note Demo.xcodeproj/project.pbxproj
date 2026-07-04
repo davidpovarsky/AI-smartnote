@@ -7,62 +7,62 @@
 	objects = {
 
 /* Begin PBXContainerItemProxy section */
-		45168BD02E4B85C800FC8B2A /* PBXContainerItemProxy */ = {
+		45168B9D2E4B78C700FC8B2A /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 45168BBA2E4B85C500FC8B2A /* Project object */;
+			containerPortal = 45168B872E4B78C500FC8B2A /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 45168BC12E4B85C500FC8B2A;
-			remoteInfo = SmartNotes;
+			remoteGlobalIDString = 45168B8E2E4B78C500FC8B2A;
+			remoteInfo = "Note Demo";
 		};
-		45168BDA2E4B85C800FC8B2A /* PBXContainerItemProxy */ = {
+		45168BA72E4B78C700FC8B2A /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 45168BBA2E4B85C500FC8B2A /* Project object */;
+			containerPortal = 45168B872E4B78C500FC8B2A /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 45168BC12E4B85C500FC8B2A;
-			remoteInfo = SmartNotes;
+			remoteGlobalIDString = 45168B8E2E4B78C500FC8B2A;
+			remoteInfo = "Note Demo";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		45168BC22E4B85C500FC8B2A /* SmartNotes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SmartNotes.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		45168BCF2E4B85C800FC8B2A /* SmartNotesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SmartNotesTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		45168BD92E4B85C800FC8B2A /* SmartNotesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SmartNotesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		45168B8F2E4B78C500FC8B2A /* Note Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Note Demo.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		45168B9C2E4B78C700FC8B2A /* Note DemoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Note DemoTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		45168BA62E4B78C700FC8B2A /* Note DemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Note DemoUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		45168BC42E4B85C500FC8B2A /* SmartNotes */ = {
+		45168B912E4B78C500FC8B2A /* Note Demo */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = SmartNotes;
+			path = "Note Demo";
 			sourceTree = "<group>";
 		};
-		45168BD22E4B85C800FC8B2A /* SmartNotesTests */ = {
+		45168B9F2E4B78C700FC8B2A /* Note DemoTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = SmartNotesTests;
+			path = "Note DemoTests";
 			sourceTree = "<group>";
 		};
-		45168BDC2E4B85C800FC8B2A /* SmartNotesUITests */ = {
+		45168BA92E4B78C700FC8B2A /* Note DemoUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = SmartNotesUITests;
+			path = "Note DemoUITests";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		45168BBF2E4B85C500FC8B2A /* Frameworks */ = {
+		45168B8C2E4B78C500FC8B2A /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		45168BCC2E4B85C800FC8B2A /* Frameworks */ = {
+		45168B992E4B78C700FC8B2A /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		45168BD62E4B85C800FC8B2A /* Frameworks */ = {
+		45168BA32E4B78C700FC8B2A /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -72,22 +72,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		45168BB92E4B85C500FC8B2A = {
+		45168B862E4B78C500FC8B2A = {
 			isa = PBXGroup;
 			children = (
-				45168BC42E4B85C500FC8B2A /* SmartNotes */,
-				45168BD22E4B85C800FC8B2A /* SmartNotesTests */,
-				45168BDC2E4B85C800FC8B2A /* SmartNotesUITests */,
-				45168BC32E4B85C500FC8B2A /* Products */,
+				45168B912E4B78C500FC8B2A /* Note Demo */,
+				45168B9F2E4B78C700FC8B2A /* Note DemoTests */,
+				45168BA92E4B78C700FC8B2A /* Note DemoUITests */,
+				45168B902E4B78C500FC8B2A /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		45168BC32E4B85C500FC8B2A /* Products */ = {
+		45168B902E4B78C500FC8B2A /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				45168BC22E4B85C500FC8B2A /* SmartNotes.app */,
-				45168BCF2E4B85C800FC8B2A /* SmartNotesTests.xctest */,
-				45168BD92E4B85C800FC8B2A /* SmartNotesUITests.xctest */,
+				45168B8F2E4B78C500FC8B2A /* Note Demo.app */,
+				45168B9C2E4B78C700FC8B2A /* Note DemoTests.xctest */,
+				45168BA62E4B78C700FC8B2A /* Note DemoUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -95,135 +95,134 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		45168BC12E4B85C500FC8B2A /* SmartNotes */ = {
+		45168B8E2E4B78C500FC8B2A /* Note Demo */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 45168BE32E4B85C800FC8B2A /* Build configuration list for PBXNativeTarget "SmartNotes" */;
+			buildConfigurationList = 45168BB02E4B78C700FC8B2A /* Build configuration list for PBXNativeTarget "Note Demo" */;
 			buildPhases = (
-				45168BBE2E4B85C500FC8B2A /* Sources */,
-				45168BBF2E4B85C500FC8B2A /* Frameworks */,
-				45168BC02E4B85C500FC8B2A /* Resources */,
+				45168B8B2E4B78C500FC8B2A /* Sources */,
+				45168B8C2E4B78C500FC8B2A /* Frameworks */,
+				45168B8D2E4B78C500FC8B2A /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				45168BC42E4B85C500FC8B2A /* SmartNotes */,
+				45168B912E4B78C500FC8B2A /* Note Demo */,
 			);
-			name = SmartNotes;
+			name = "Note Demo";
 			packageProductDependencies = (
 			);
-			productName = SmartNotes;
-			productReference = 45168BC22E4B85C500FC8B2A /* SmartNotes.app */;
+			productName = "Note Demo";
+			productReference = 45168B8F2E4B78C500FC8B2A /* Note Demo.app */;
 			productType = "com.apple.product-type.application";
 		};
-		45168BCE2E4B85C800FC8B2A /* SmartNotesTests */ = {
+		45168B9B2E4B78C700FC8B2A /* Note DemoTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 45168BE62E4B85C800FC8B2A /* Build configuration list for PBXNativeTarget "SmartNotesTests" */;
+			buildConfigurationList = 45168BB32E4B78C700FC8B2A /* Build configuration list for PBXNativeTarget "Note DemoTests" */;
 			buildPhases = (
-				45168BCB2E4B85C800FC8B2A /* Sources */,
-				45168BCC2E4B85C800FC8B2A /* Frameworks */,
-				45168BCD2E4B85C800FC8B2A /* Resources */,
+				45168B982E4B78C700FC8B2A /* Sources */,
+				45168B992E4B78C700FC8B2A /* Frameworks */,
+				45168B9A2E4B78C700FC8B2A /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				45168BD12E4B85C800FC8B2A /* PBXTargetDependency */,
+				45168B9E2E4B78C700FC8B2A /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				45168BD22E4B85C800FC8B2A /* SmartNotesTests */,
+				45168B9F2E4B78C700FC8B2A /* Note DemoTests */,
 			);
-			name = SmartNotesTests;
+			name = "Note DemoTests";
 			packageProductDependencies = (
 			);
-			productName = SmartNotesTests;
-			productReference = 45168BCF2E4B85C800FC8B2A /* SmartNotesTests.xctest */;
+			productName = "Note DemoTests";
+			productReference = 45168B9C2E4B78C700FC8B2A /* Note DemoTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		45168BD82E4B85C800FC8B2A /* SmartNotesUITests */ = {
+		45168BA52E4B78C700FC8B2A /* Note DemoUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 45168BE92E4B85C800FC8B2A /* Build configuration list for PBXNativeTarget "SmartNotesUITests" */;
+			buildConfigurationList = 45168BB62E4B78C700FC8B2A /* Build configuration list for PBXNativeTarget "Note DemoUITests" */;
 			buildPhases = (
-				45168BD52E4B85C800FC8B2A /* Sources */,
-				45168BD62E4B85C800FC8B2A /* Frameworks */,
-				45168BD72E4B85C800FC8B2A /* Resources */,
+				45168BA22E4B78C700FC8B2A /* Sources */,
+				45168BA32E4B78C700FC8B2A /* Frameworks */,
+				45168BA42E4B78C700FC8B2A /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				45168BDB2E4B85C800FC8B2A /* PBXTargetDependency */,
+				45168BA82E4B78C700FC8B2A /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				45168BDC2E4B85C800FC8B2A /* SmartNotesUITests */,
+				45168BA92E4B78C700FC8B2A /* Note DemoUITests */,
 			);
-			name = SmartNotesUITests;
+			name = "Note DemoUITests";
 			packageProductDependencies = (
 			);
-			productName = SmartNotesUITests;
-			productReference = 45168BD92E4B85C800FC8B2A /* SmartNotesUITests.xctest */;
+			productName = "Note DemoUITests";
+			productReference = 45168BA62E4B78C700FC8B2A /* Note DemoUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		45168BBA2E4B85C500FC8B2A /* Project object */ = {
+		45168B872E4B78C500FC8B2A /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 2600;
-				LastUpgradeCheck = 2610;
+				LastUpgradeCheck = 2600;
 				TargetAttributes = {
-					45168BC12E4B85C500FC8B2A = {
+					45168B8E2E4B78C500FC8B2A = {
 						CreatedOnToolsVersion = 26.0;
 					};
-					45168BCE2E4B85C800FC8B2A = {
+					45168B9B2E4B78C700FC8B2A = {
 						CreatedOnToolsVersion = 26.0;
-						TestTargetID = 45168BC12E4B85C500FC8B2A;
+						TestTargetID = 45168B8E2E4B78C500FC8B2A;
 					};
-					45168BD82E4B85C800FC8B2A = {
+					45168BA52E4B78C700FC8B2A = {
 						CreatedOnToolsVersion = 26.0;
-						TestTargetID = 45168BC12E4B85C500FC8B2A;
+						TestTargetID = 45168B8E2E4B78C500FC8B2A;
 					};
 				};
 			};
-			buildConfigurationList = 45168BBD2E4B85C500FC8B2A /* Build configuration list for PBXProject "SmartNotes" */;
+			buildConfigurationList = 45168B8A2E4B78C500FC8B2A /* Build configuration list for PBXProject "Note Demo" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
-				"zh-Hans",
 			);
-			mainGroup = 45168BB92E4B85C500FC8B2A;
+			mainGroup = 45168B862E4B78C500FC8B2A;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 45168BC32E4B85C500FC8B2A /* Products */;
+			productRefGroup = 45168B902E4B78C500FC8B2A /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				45168BC12E4B85C500FC8B2A /* SmartNotes */,
-				45168BCE2E4B85C800FC8B2A /* SmartNotesTests */,
-				45168BD82E4B85C800FC8B2A /* SmartNotesUITests */,
+				45168B8E2E4B78C500FC8B2A /* Note Demo */,
+				45168B9B2E4B78C700FC8B2A /* Note DemoTests */,
+				45168BA52E4B78C700FC8B2A /* Note DemoUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		45168BC02E4B85C500FC8B2A /* Resources */ = {
+		45168B8D2E4B78C500FC8B2A /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		45168BCD2E4B85C800FC8B2A /* Resources */ = {
+		45168B9A2E4B78C700FC8B2A /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		45168BD72E4B85C800FC8B2A /* Resources */ = {
+		45168BA42E4B78C700FC8B2A /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -233,21 +232,21 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		45168BBE2E4B85C500FC8B2A /* Sources */ = {
+		45168B8B2E4B78C500FC8B2A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		45168BCB2E4B85C800FC8B2A /* Sources */ = {
+		45168B982E4B78C700FC8B2A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		45168BD52E4B85C800FC8B2A /* Sources */ = {
+		45168BA22E4B78C700FC8B2A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -257,20 +256,20 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		45168BD12E4B85C800FC8B2A /* PBXTargetDependency */ = {
+		45168B9E2E4B78C700FC8B2A /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 45168BC12E4B85C500FC8B2A /* SmartNotes */;
-			targetProxy = 45168BD02E4B85C800FC8B2A /* PBXContainerItemProxy */;
+			target = 45168B8E2E4B78C500FC8B2A /* Note Demo */;
+			targetProxy = 45168B9D2E4B78C700FC8B2A /* PBXContainerItemProxy */;
 		};
-		45168BDB2E4B85C800FC8B2A /* PBXTargetDependency */ = {
+		45168BA82E4B78C700FC8B2A /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 45168BC12E4B85C500FC8B2A /* SmartNotes */;
-			targetProxy = 45168BDA2E4B85C800FC8B2A /* PBXContainerItemProxy */;
+			target = 45168B8E2E4B78C500FC8B2A /* Note Demo */;
+			targetProxy = 45168BA72E4B78C700FC8B2A /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		45168BE12E4B85C800FC8B2A /* Debug */ = {
+		45168BAE2E4B78C700FC8B2A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -327,16 +326,14 @@
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
-				ONLY_ACTIVE_ARCH = NO;
+				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
-				STRING_CATALOG_GENERATE_SYMBOLS = YES;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
 			name = Debug;
 		};
-		45168BE22E4B85C800FC8B2A /* Release */ = {
+		45168BAF2E4B78C700FC8B2A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -388,14 +385,12 @@
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
-				STRING_CATALOG_GENERATE_SYMBOLS = YES;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SWIFT_COMPILATION_MODE = wholemodule;
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
 		};
-		45168BE42E4B85C800FC8B2A /* Debug */ = {
+		45168BB12E4B78C700FC8B2A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -405,32 +400,29 @@
 				DEVELOPMENT_TEAM = TK2NMDS7ZC;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_NSCameraUsageDescription = "SmartNotes 使用相机扫描课堂讲义、会议白板和纸质资料并导入到笔记页面。";
-				INFOPLIST_KEY_NSMicrophoneUsageDescription = "SmartNotes 使用麦克风为课堂、会议和批注笔记保存录音。";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 26.0;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "zcz-s.SmartNotes";
+				PRODUCT_BUNDLE_IDENTIFIER = "zcz-s.Note-Demo";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
 				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
-						TARGETED_DEVICE_FAMILY = 2;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		45168BE52E4B85C800FC8B2A /* Release */ = {
+		45168BB22E4B78C700FC8B2A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -440,32 +432,29 @@
 				DEVELOPMENT_TEAM = TK2NMDS7ZC;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_NSCameraUsageDescription = "SmartNotes 使用相机扫描课堂讲义、会议白板和纸质资料并导入到笔记页面。";
-				INFOPLIST_KEY_NSMicrophoneUsageDescription = "SmartNotes 使用麦克风为课堂、会议和批注笔记保存录音。";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 26.0;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "zcz-s.SmartNotes";
+				PRODUCT_BUNDLE_IDENTIFIER = "zcz-s.Note-Demo";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
 				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
-						TARGETED_DEVICE_FAMILY = 2;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
-		45168BE72E4B85C800FC8B2A /* Debug */ = {
+		45168BB42E4B78C700FC8B2A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -475,20 +464,19 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 26.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "zcz-s.SmartNotesTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "zcz-s.Note-DemoTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = NO;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
-						TARGETED_DEVICE_FAMILY = 2;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SmartNotes.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/SmartNotes";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Note Demo.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Note Demo";
 			};
 			name = Debug;
 		};
-		45168BE82E4B85C800FC8B2A /* Release */ = {
+		45168BB52E4B78C700FC8B2A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -498,20 +486,19 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 26.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "zcz-s.SmartNotesTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "zcz-s.Note-DemoTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = NO;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
-						TARGETED_DEVICE_FAMILY = 2;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SmartNotes.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/SmartNotes";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Note Demo.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Note Demo";
 			};
 			name = Release;
 		};
-		45168BEA2E4B85C800FC8B2A /* Debug */ = {
+		45168BB72E4B78C700FC8B2A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -519,20 +506,19 @@
 				DEVELOPMENT_TEAM = TK2NMDS7ZC;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "zcz-s.SmartNotesUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = "zcz-s.Note-DemoUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = NO;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
-						TARGETED_DEVICE_FAMILY = 2;
-				TEST_TARGET_NAME = SmartNotes;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Note Demo";
 			};
 			name = Debug;
 		};
-		45168BEB2E4B85C800FC8B2A /* Release */ = {
+		45168BB82E4B78C700FC8B2A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -540,59 +526,58 @@
 				DEVELOPMENT_TEAM = TK2NMDS7ZC;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "zcz-s.SmartNotesUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = "zcz-s.Note-DemoUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = NO;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
-						TARGETED_DEVICE_FAMILY = 2;
-				TEST_TARGET_NAME = SmartNotes;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Note Demo";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		45168BBD2E4B85C500FC8B2A /* Build configuration list for PBXProject "SmartNotes" */ = {
+		45168B8A2E4B78C500FC8B2A /* Build configuration list for PBXProject "Note Demo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				45168BE12E4B85C800FC8B2A /* Debug */,
-				45168BE22E4B85C800FC8B2A /* Release */,
+				45168BAE2E4B78C700FC8B2A /* Debug */,
+				45168BAF2E4B78C700FC8B2A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		45168BE32E4B85C800FC8B2A /* Build configuration list for PBXNativeTarget "SmartNotes" */ = {
+		45168BB02E4B78C700FC8B2A /* Build configuration list for PBXNativeTarget "Note Demo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				45168BE42E4B85C800FC8B2A /* Debug */,
-				45168BE52E4B85C800FC8B2A /* Release */,
+				45168BB12E4B78C700FC8B2A /* Debug */,
+				45168BB22E4B78C700FC8B2A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		45168BE62E4B85C800FC8B2A /* Build configuration list for PBXNativeTarget "SmartNotesTests" */ = {
+		45168BB32E4B78C700FC8B2A /* Build configuration list for PBXNativeTarget "Note DemoTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				45168BE72E4B85C800FC8B2A /* Debug */,
-				45168BE82E4B85C800FC8B2A /* Release */,
+				45168BB42E4B78C700FC8B2A /* Debug */,
+				45168BB52E4B78C700FC8B2A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		45168BE92E4B85C800FC8B2A /* Build configuration list for PBXNativeTarget "SmartNotesUITests" */ = {
+		45168BB62E4B78C700FC8B2A /* Build configuration list for PBXNativeTarget "Note DemoUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				45168BEA2E4B85C800FC8B2A /* Debug */,
-				45168BEB2E4B85C800FC8B2A /* Release */,
+				45168BB72E4B78C700FC8B2A /* Debug */,
+				45168BB82E4B78C700FC8B2A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 45168BBA2E4B85C500FC8B2A /* Project object */;
+	rootObject = 45168B872E4B78C500FC8B2A /* Project object */;
 }
